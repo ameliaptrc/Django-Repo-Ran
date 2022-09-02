@@ -1,0 +1,1 @@
+web: gunicorn Django-Repo-Rans.wsgi --log-file -
