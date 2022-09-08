@@ -1,1 +1,1 @@
-web: gunicorn Django-Repo-Rans.wsgi --log-file -
+web: gunicorn projectsatu.wsgi --log-file -
